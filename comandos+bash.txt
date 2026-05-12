@@ -5,3 +5,15 @@ mkdir = cria pastas
 pwd = mostra onde estou
 
 .. = volta
+
+cat = exibe conteudo do arquivo
+
+rm = remove arquivo ou diretorio
+
+git init . = cria repo git na pasta atual | insere o git na pasta
+
+git status = status atual do git
+
+git add "nome_arquivo" = adiciona arquivo para commit
+
+git commit -m "msg" = faz commit do que esta para ser commitado
