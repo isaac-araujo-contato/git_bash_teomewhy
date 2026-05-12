@@ -1,0 +1,7 @@
+ls = lista os itens
+
+mkdir = cria pastas
+
+pwd = mostra onde estou
+
+.. = volta
