@@ -7,3 +7,5 @@ git add "nome_arquivo" = adiciona arquivo para commit
 git commit -m "msg" = faz commit do que esta para ser commitado
 
 git log = mostra histórico do commits
+
+teste meu deus
